@@ -1,0 +1,6 @@
+{
+  "populationSize" : 10000,
+  "mu" : 100,
+  "sigma" : 20,
+  "nbIteration" : 100000
+}
